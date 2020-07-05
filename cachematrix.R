@@ -33,5 +33,5 @@ data <- x$get()
         x$setinverse(inv)
         inv
    
-        
         }
+        
